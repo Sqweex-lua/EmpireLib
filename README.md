@@ -7,7 +7,7 @@
 To initialize the library, use the following loadstring:
 
 ```lua
-local EmpireLib = loadstring(game:HttpGet("11111"))()
+local EmpireLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sqweex-lua/EmpireLib/refs/heads/main/src/main.lua"))()
 ```
 ## DOCS 👀
 [Click](https://github.com/Sqweex-lua/EmpireLib/blob/main/docs/docs.md)
