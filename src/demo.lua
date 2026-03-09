@@ -1,4 +1,4 @@
-local EmpireLib = loadstring(game:HttpGet("link on release"))()
+local EmpireLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sqweex-lua/EmpireLib/refs/heads/main/src/main.lua"))()
 
 EmpireLib:Notify("Empire DeMo Ui", "Everything is loaded and ready.", 4)
 
