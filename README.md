@@ -1,6 +1,6 @@
 # 🌌 EmpireUI Library
 
-![Logo](./изображение.png)
+![Logo](./demo.png)
 
 ## 🛠 Installation & Setup
 
