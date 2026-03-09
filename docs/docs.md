@@ -15,6 +15,18 @@ CreateKeybind,"text, default, callback",Assigns a keyboard key to a specific act
 ```
 EmpireLib:Notify("System", "Library Loaded Successfully!", 5) -- Title, Text, Duration
 ```
+
+## Watermark
+```
+EmpireLib:CreateWatermark({
+    Text = "EmpireUI Demo",
+    time = true, -- time on pc / mobile
+    robloxname = true, -- rb name
+    date = true, -- date
+    rpicture = true -- roblox avatar
+})
+```
+
 ## Tab Management
 
 ```
