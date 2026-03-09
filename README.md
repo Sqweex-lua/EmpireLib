@@ -15,3 +15,8 @@ https://github.com/Sqweex-lua/EmpireLib/main/docs/docs.md
 Icon Provider: [Footagesus Icons.](https://github.com/Footagesus/Icons)
 
 Icon Sets: Lucide, Craft, Solar, and SF Symbols.
+
+
+- - - - - - - - - - - - - - - - - -
+ 
+Thank you for choosing EmpireUI. Build something amazing.
