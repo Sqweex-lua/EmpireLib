@@ -1,5 +1,7 @@
 # 🌌 EmpireUI Library
 
+![Logo](./изображение.png)
+
 ## 🛠 Installation & Setup
 
 To initialize the library, use the following loadstring:
