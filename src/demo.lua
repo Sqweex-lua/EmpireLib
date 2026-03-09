@@ -2,6 +2,14 @@ local EmpireLib = loadstring(game:HttpGet("link on release"))()
 
 EmpireLib:Notify("Empire DeMo Ui", "Everything is loaded and ready.", 4)
 
+EmpireLib:CreateWatermark({
+    Text = "EmpireUI Demo",
+    time = true, -- time on pc / mobile
+    robloxname = true, -- rb name
+    date = true, -- date
+    rpicture = true -- roblox avatar
+})
+
 -- Creating the main window. 
 local Window = EmpireLib:CreateWindow({
     Name = "KtylX Project | Premium Edition",
