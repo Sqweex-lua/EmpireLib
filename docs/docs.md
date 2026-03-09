@@ -1,9 +1,14 @@
 ## Method,Parameters,Description
 CreateButton,"text, callback",Standard clickable button with hover effects.
+
 CreateToggle,"text, default, callback",A switch for boolean (true/false) values.
+
 CreateSlider,"text, min, max, default, callback",Smooth slider for numerical adjustments.
+
 CreateDropdown,"text, list, callback",A scrollable selection menu.
+
 CreateColorPicker,"text, default, callback",NEW: Advanced HSV Color Wheel with cursor.
+
 CreateKeybind,"text, default, callback",Assigns a keyboard key to a specific action.
 
 ## Notification System
