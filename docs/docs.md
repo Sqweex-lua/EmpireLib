@@ -27,6 +27,9 @@ EmpireLib:CreateWatermark({
 })
 ```
 
+## ICONS
+
+You can use icons from [HERE](https://lucide.dev/icons)
 ## Tab Management
 
 ```
